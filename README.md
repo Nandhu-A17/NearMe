@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 <html>
 <head>
 <title>MY CITY</title>
@@ -161,6 +162,7 @@ The nearest police station is located in Thirumangalam tahsil.
 </p>
 </body>
 </html>
+```
 
 ## OUTPUT
 
